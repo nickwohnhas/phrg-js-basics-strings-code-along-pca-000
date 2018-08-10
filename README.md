@@ -351,6 +351,10 @@ We're ready to submit our passing code and move on to the next lesson. Either [m
 
 Great work!
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-basics-strings-code-along/issues) or [pull-reqeust](https://github.com/learn-co-curriculum/phrg-js-basics-strings-code-along/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-reqeust, and send them a link via Connect.
+
 ## Resources
 - [StackExchange – How to open the JavaScript console][open JS console]
 - [MDN — Template literals][template literals]
